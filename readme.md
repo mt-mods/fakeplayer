@@ -1,5 +1,9 @@
 minetest fake-player library
 
+![](https://github.com/mt-mods/fakeplayer/workflows/luacheck/badge.svg)
+![](https://github.com/mt-mods/fakeplayer/workflows/test/badge.svg)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](license.txt)
+[![Download](https://img.shields.io/badge/Download-ContentDB-blue.svg)](https://content.minetest.net/packages/mt-mods/fakeplayer)
 
 # Overview
 
