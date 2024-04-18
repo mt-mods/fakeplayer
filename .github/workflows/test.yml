@@ -8,5 +8,5 @@ jobs:
     - uses: buckaroobanzay/mtt@main
       with:
         modname: fakeplayer
-        enable_coverage: "true"
+        enable_coverage: true
     - uses: coverallsapp/github-action@v1
