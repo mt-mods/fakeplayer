@@ -1,3 +1,5 @@
+# ⚠️ legacy-repo, superseeded by https://github.com/OgelGames/fakelib ⚠️
+
 minetest fake-player library
 
 ![](https://github.com/mt-mods/fakeplayer/workflows/luacheck/badge.svg)
